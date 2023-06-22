@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 My name is Peter, currently a student at Mission Ready HQ School almost finishing with my Advanced Developer course.</br>
--🌱 In this school, we have learnt how to implement unit testing using Jest library in React Javascript Framework. We have also learnt how to use Github such as forking, cloning repositories and pulling, pushing changes if we made our own repository.</br>
--🤔 Now we have just started focusing on Object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
+-😄 My name is Peter, currently a student at Mission Ready HQ School almost finishing with my Advanced Developer course.</br>
+-🔭 In this school, we have learnt how to implement unit testing using Jest library in React Javascript Framework. We have also learnt how to use Github such as forking, cloning repositories and pulling, pushing changes if we made our own repository.</br>
+-🌱 Now we have just started focusing on Object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
 
 <!-- image src of skills here https://github.com/devicons/devicon/tree/master/icons -->
 Summary of Skills I have now:</br></br>
