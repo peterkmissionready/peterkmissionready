@@ -34,6 +34,7 @@ Summary of Skills I have now:</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="60px" height="60px" alt="npm"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60px" height="60px" alt="react"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60px" height="60px" alt="jest"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="60px" height="60px" alt="express"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="60px" height="60px" alt="angular"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" width="60px" height="60px" alt="ionic"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60px" height="60px" alt="firebase"></img>
