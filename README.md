@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -😄 My name is Peter.
-</br>
-</br>
-
 -⚡I am currently a student at Mission Ready HQ School almost finishing with my Advanced Developer course.</br>
 -🔭 In this school, we have learnt how to implement unit testing using Jest library in React Javascript Framework. We have also learnt how to use Github such as forking, cloning repositories and pulling, pushing changes if we made our own repository.</br>
 -🌱 Now we have just started focusing on Object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
