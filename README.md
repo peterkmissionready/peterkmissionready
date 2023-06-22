@@ -33,13 +33,13 @@ Summary of Skills I have now:</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60px" height="60px" alt="nodejs"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="60px" height="60px" alt="npm"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60px" height="60px" alt="react"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60px" height="60px" alt="angular"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="60px" height="60px" alt="angular"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" width="60px" height="60px" alt="ionic"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60px" height="60px" alt="firebase"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60px" height="60px" alt="docker"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60px" height="60px" alt="mongodb"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60px" height="60px" alt="vscode"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="60px" height="60px" alt="visualstudio"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60px" height="60px" alt="visualstudio"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60px" height="60px" alt="linux"></img>
 
 </br></br>
