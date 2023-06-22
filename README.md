@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -😄 My name is Peter.
-</br></br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterkmissionready&theme=ocean-gradient)](https://git.io/streak-stats)
+</br>
 </br>
 
 -⚡I am currently a student at Mission Ready HQ School almost finishing with my Advanced Developer course.</br>
@@ -49,10 +48,11 @@ Summary of Skills I have mastered so far:</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60px" height="60px" alt="visualstudio"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60px" height="60px" alt="linux"></img>
 
-</br>
-
-</br>
-You can find me on Linkedin:</br></br>
+</br>My Stats:
+</br></br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterkmissionready&theme=ocean-gradient)](https://git.io/streak-stats)
+</br></br></br>
+You can find me on Linkedin:</br>
 
 <a href="https://www.linkedin.com/in/peter-kim-44ab3361/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="90px" height="90px" alt="linkedin"></img></a>
 
