@@ -1,8 +1,6 @@
-<h2>About me:</h2></br>
-<h3>
-  
+<h2>About me:</h2>
+
 ### Hello. 👋
-</h3>
 
 <!--
 **peterkmissionready/peterkmissionready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
