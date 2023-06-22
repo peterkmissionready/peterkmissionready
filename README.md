@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -🌱 Now we have just started focusing on Object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
 
 <!-- image src of skills here https://github.com/devicons/devicon/tree/master/icons -->
-Summary of Skills I have now:</br></br>
+Summary of Skills I have mastered so far:</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60px" height="60px" alt="java"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60px" height="60px" alt="csharp"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60px" height="60px" alt="cplusplus"></img>
