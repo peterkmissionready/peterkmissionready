@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -😄 My name is Peter.
 -⚡I am an alumni of Mission Ready HQ School having finished my Advanced Developer courses.</br>
 -🔭 In this school, we have learnt how to implement unit testing using Jest library in React Javascript Framework. We have also learnt how to use Github such as forking, cloning repositories and pulling, pushing changes if we made our own repository.</br>
--🌱 Now we have just started focusing on Object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
+-🌱 We also learnt about object-oriented programming with C# and here we also learnt how fast and economical some algorithms are compared to others and we value them using the Big O notation.</br></br>
 
 <!-- image src of skills here https://github.com/devicons/devicon/tree/master/icons -->
 <h2>Summary of Skills I have mastered so far:</h2></br></br>
